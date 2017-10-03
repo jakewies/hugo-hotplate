@@ -1,7 +1,8 @@
 {
   "name": "hugo-hotplate",
   "version": "1.0.0",
-  "description": "A minimal configuration to jumpstart Hugo projects with an asset pipeline.",
+  "description":
+    "A minimal configuration to jumpstart Hugo projects with an asset pipeline.",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
@@ -17,7 +18,17 @@
     "dev": "hugo server -D",
     "gulp": "gulp"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "hugo",
+    "gulp",
+    "stylus",
+    "babel",
+    "cms",
+    "autoprefixer",
+    "browser",
+    "sourcemaps",
+    "boilerplate"
+  ],
+  "author": "Jake Wiesler",
+  "license": "MIT"
 }
