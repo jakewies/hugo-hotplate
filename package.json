@@ -1,0 +1,23 @@
+{
+  "name": "hugo-hotplate",
+  "version": "1.0.0",
+  "description": "A minimal configuration to jumpstart Hugo projects with an asset pipeline.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-babel": "^7.0.0",
+    "gulp-sourcemaps": "^2.6.1",
+    "gulp-stylus": "^2.6.0"
+  },
+  "scripts": {
+    "dev": "hugo server -D",
+    "gulp": "gulp"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
